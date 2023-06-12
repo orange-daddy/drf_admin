@@ -21,6 +21,10 @@
   </a>
 </p>
 
+# Fork大佬的项目，仅自己学习使用
+
+原地址在这里：https://github.com/TianPangJi/drf_admin
+
 #### 项目简介
 一个基于 Django、Django REST framework（DRF）、Channels、Redis、Vue的前后端分离的后台管理系统
 
